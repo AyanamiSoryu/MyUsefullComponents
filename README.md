@@ -48,7 +48,7 @@ function App() {
 To install this component, clone this repository and run **`npm install`** to install the dependencies.
 
 ```bash
-git clone https://github.com/yourusername/your-repository.git
+git clone https://github.com/AyanamiSoryu/MyUsefullComponents.git
 cd your-repository
 npm install
 ```
